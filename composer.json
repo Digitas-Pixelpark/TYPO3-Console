@@ -5,7 +5,7 @@
             "url": "Packages/*"
         }
     },
-    "name": "helhum/typo3-console",
+    "name": "dpx/typo3-console",
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
     "keywords": [
         "TYPO3",
@@ -30,7 +30,7 @@
     ],
     "license": "GPL-2.0-or-later",
     "require": {
-        "php": ">=7.4.1",
+        "php": ">=8.1.0",
         "composer-runtime-api": "^2.1",
 
         "typo3/cms-backend": "^11.5.3 || dev-main",
